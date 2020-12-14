@@ -1,5 +1,8 @@
 _repo: Woodside-the-North-End-of-Newark-NJ-Its-History-Legends-and-Ghost-Stories-Gathered-from-the-R__63996
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63996-h/images/cover.jpg
 creator:
   author:
     agent_name: Hine, C. G. (Charles Gilbert)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '26090'
     url: http://www.gutenberg.org/2009/agents/26090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63996#Woodside-the-North-End-of-Newark-NJ-Its-History-Legends-and-Ghost-Stories-Gathered-from-the-R_
 gutenberg_issued: '2020-12-09'
 gutenberg_type: Text
 identifiers:
